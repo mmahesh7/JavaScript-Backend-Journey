@@ -1,4 +1,4 @@
-CommonJS:
+**CommonJS:**
 
 Used primarily in Node.js..
 
@@ -8,8 +8,8 @@ It is synchronous, meaning it loads modules one after another—ideal for server
 
 ==============================================================================
 
-EcmaScript Modules (ESM):
-
+**EcmaScript Modules (ESM):
+**
 A standardized JavaScript module system supported by modern browsers.
 
 Uses import and export syntax.
@@ -18,7 +18,7 @@ Asynchronous and suitable for frontend environments as well as newer Node.js ver
 
 =================================================================================
 
-Differences Highlighted:
+**Differences Highlighted:**
 
 Syntax variations (require vs. import).
 
