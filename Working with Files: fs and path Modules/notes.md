@@ -23,3 +23,4 @@ path.join() — joins multiple segments into a single path.
 path.basename() — extracts the base file name.
 
 path.extname() — gets the file extension.
+ 
