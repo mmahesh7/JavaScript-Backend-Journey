@@ -7,6 +7,7 @@ Day 0 of my backend journey. I mean i am just getting started with my setup....
 - ✅ Initialized my first project using `npm init`
 - ✅ Installed and used the `slugify` package
 
+
 I installed Node.js on my system, which lets me run JavaScript code outside the browser. Using the terminal, I executed my first .js file with the command node filename.js, and it was awesome to see it work!
 
 I also learned about npm (Node Package Manager) and how it helps in managing packages. I initialized my first Node project with npm init, which created a package.json file. This file stores important project details and keeps track of the dependencies I install.
